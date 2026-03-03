@@ -34,4 +34,5 @@ Disconnecting: better to disconnect the battery at the pins (and not at the clip
 - What port should I select?
   Despends on your computer!
 
--
+- I need to reconnect the pins. Where do they go?
+![esp pins](assets/esp-pins.jpeg)
